@@ -1,7 +1,6 @@
 ﻿using Android.App;
 using Android.Content.PM;
 using Android.OS;
-using MauiBlazorHybridAppMauiMTAdmob.Platforms.Android;
 using Plugin.MauiMTAdmob;
 using Plugin.MauiMTAdmob.Extra;
 
@@ -44,9 +43,6 @@ public class MainActivity : MauiAppCompatActivity
         // ID de la unidad de anuncios de prueba.
         // En https://developers.google.com/admob/android/test-ads?hl=es-419 tienes más información.
         CrossMauiMTAdmob.Current.LoadInterstitial("ca-app-pub-3940256099942544/1033173712");
-
-        var consentHelper = new ConsentHelper(this);
-        consentHelper.RequestConsentInfoUpdate();
     }
 
     protected override void OnResume()
