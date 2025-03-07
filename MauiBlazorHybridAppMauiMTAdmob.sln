@@ -1,0 +1,27 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.13.35825.156 d17.13
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MauiBlazorHybridAppMauiMTAdmob", "MauiBlazorHybridAppMauiMTAdmob.csproj", "{7644EB84-4E66-4263-AC8A-59C2F703D16B}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{7644EB84-4E66-4263-AC8A-59C2F703D16B}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{7644EB84-4E66-4263-AC8A-59C2F703D16B}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{7644EB84-4E66-4263-AC8A-59C2F703D16B}.Debug|Any CPU.Deploy.0 = Debug|Any CPU
+		{7644EB84-4E66-4263-AC8A-59C2F703D16B}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{7644EB84-4E66-4263-AC8A-59C2F703D16B}.Release|Any CPU.Build.0 = Release|Any CPU
+		{7644EB84-4E66-4263-AC8A-59C2F703D16B}.Release|Any CPU.Deploy.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {47F6F0C6-B5DF-4D5F-A3AD-69CF0AAEB492}
+	EndGlobalSection
+EndGlobal
